@@ -1,0 +1,14 @@
+.rotatecard{
+    margin: 70px;
+	background-color: antiquewhite;
+	width: 270px;
+	height: 270px;
+	transform: rotateZ(45deg);
+}
+.rotatetext{
+    transform: rotateZ(-45deg);
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
